@@ -41,9 +41,9 @@ export default {
 <template>
     <v-navigation-drawer expand-on-hover rail>
         <v-list>
-            <v-list-item prepend-icon="mdi-account">
+            <v-list-item prepend-icon="mdi-account" >
                 <v-list-item-content>
-                    <v-list-item-title>{{ username }}</v-list-item-title>
+                    <v-list-item-title >{{ username }}</v-list-item-title>
                     <v-list-item-subtitle>teacher or student</v-list-item-subtitle>
                 </v-list-item-content>
             </v-list-item>
