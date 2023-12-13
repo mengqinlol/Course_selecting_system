@@ -1,24 +1,15 @@
-# dbtest
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 学生管理系统
+* 个人信息
+* 选修课程
+* 退选课程
+* 查询课表
+* 查询成绩
+## 教师管理系统
+* 个人信息
+* 学生管理（按课程）
+* 成绩登记
+## 管理员系统
+* 增删改查学生表
+* 增删改查教师表
+* 增删改查课程表
+* 增删改查成绩表
